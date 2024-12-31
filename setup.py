@@ -10,9 +10,9 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="OptionsStrategy",
+    name="OpenreviewScrape",
     version="0.0.1",
-    description="OptionsStrategy",
+    description="OpenreviewScrape",
     long_description=long_description,
     url="https://github.com/dotd/OptionsStrategy",
     python_requires=">=3.9",
